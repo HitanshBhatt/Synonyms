@@ -16,7 +16,7 @@ def norm(vec):
     sum = math.sqrt(sum_of_squares)
     return sum
 
-# Returns the cosine similarity between input vectors vec1, and vec2 stored as dictionaries (Note to self: Should be similar to norm(vec) in terms of logic and structure)
+# Returns the cosine similarity b/w input vectors vec1, and vec2 stored as dictionaries (Note to self: Should be similar to norm(vec) in terms of logic and structure)
 def cosine_similarity(vec1, vec2):
     num = 0.0
     for i in vec1:
