@@ -1,0 +1,3 @@
+https://github.com/riddhimanroy1010/esc180/blob/main/Project%203/synonyms.py
+https://github.com/teddy57320/semantic_descriptors/blob/master/semantic_descriptors.py
+https://github.com/lluo5779/Semantic-Descriptor/blob/master/synonym.py
